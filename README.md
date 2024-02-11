@@ -1,9 +1,13 @@
 # Data-Mining
 ### Student name : 
 
-NJood Alowaidah 
+Njood Alowaidah 
+
 Almaha 
+
 shahad 
+
 Alanoud
 
-project motivation:
+
+### project motivation :
