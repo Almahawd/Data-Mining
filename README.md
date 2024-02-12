@@ -3,11 +3,11 @@
 
 Njood Alowaidah 
 
-Almaha 
+Almaha Aldahmash
 
-shahad 
+shahad Basalmah
 
-Alanoud
+Alanoud Alamri
 
 
 ### project motivation :
