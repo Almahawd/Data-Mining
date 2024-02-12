@@ -1,14 +1,15 @@
 # Data-Mining
 ### Student name : 
 
-Njood Alowaidah 443200526
-
+Njood Alowaidah 443200526 
+(creat python jupyter\notebook and write General information)
 Almaha Aldahmash 443200666
-
+(write goal and General information)
 shahad Basalamah 442200841
-
+(write motivation)
 Alanoud Alamri 443200043
-
+(code in python and write General information)
+all group members selected the dataset
 
 ### project motivation :
 
